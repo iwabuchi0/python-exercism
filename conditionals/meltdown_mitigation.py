@@ -1,4 +1,4 @@
-"""Functions to prevent a nuclear meltdown."""
+#Functions to prevent a nuclear meltdown.
 
 
 def is_criticality_balanced(temperature, neutrons_emitted):
